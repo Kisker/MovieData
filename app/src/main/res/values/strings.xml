@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IMBD</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <string name="Spacing">"  |  "</string>
+    <string name="Date">Date Born/Died</string>
+    <string name="Rating">"Rating : "</string>
+    <string name="Bio">"Bio : "</string>
+    <string name="Lastname">"Lastname : "</string>
+    <string name="Actors">Actors</string>
+    <string name="Name">"Name : "</string>
+    <string name="Settings">Settings</string>
+    <string name="Notification_Title">Notification</string>
+    <string name="Notification_Text">This is notification text</string>
+    <string name="Insert">Insert</string>
+    <string name="Change">Change</string>
+    <string name="Notification_settings_show">Show notifications</string>
+    <string name="Notification_settings">Notifications</string>
+    <string name="Movies">"Movies : "</string>
+    <string name="contextDescription">Description</string>
+</resources>
